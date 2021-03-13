@@ -1,0 +1,17 @@
+{
+"username":"abhyam1234",
+"first_name":"abhyam",
+"last_name":"gupta",
+"email":"abhyam@gmail12.com",
+"password":"something"
+}
+
+# with [phone number]
+{
+"username":"abhyam1234",
+"first_name":"abhyam",
+"last_name":"gupta",
+"email":"abhyam@gmail12.com",
+"phone_number":"7206683371",
+"password":"something"
+}
